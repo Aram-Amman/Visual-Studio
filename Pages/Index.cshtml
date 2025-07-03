@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "My Favorite Song";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            background-color: #1e1e2f;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            animation: colorChange 3s infinite alternate;
+        }
+
+        @@keyframes colorChange {
+            from { color: #ffffff; }
+            to { color: #ff4081; }
+        }
+
+        iframe {
+            margin-top: 30px;
+            border: 5px solid #ff4081;
+            box-shadow: 0px 0px 20px #ff4081;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎵 Enjoy My Favorite Song 🎵</h1>
+
+    <!-- Embedded YouTube Video -->
+<iframe width="914" height="514" src="https://www.youtube.com/embed/iVSUVmxDcls?list=RDiVSUVmxDcls" title="Hans Zimmer - Interstellar (Soft &amp; Reflective Piano Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <script>
+        // Add some simple animation using JavaScript
+        const heading = document.querySelector('h1');
+        let scale = 1;
+        let growing = true;
+
+        setInterval(() => {
+            if (growing) {
+                scale += 0.01;
+                if (scale >= 1.2) growing = false;
+            } else {
+                scale -= 0.01;
+                if (scale <= 1) growing = true;
+            }
+            heading.style.transform = `scale(${scale})`;
+        }, 30);
+    </script>
+</body>
+</html>

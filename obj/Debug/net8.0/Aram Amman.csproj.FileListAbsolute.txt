@@ -1,0 +1,30 @@
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.MvcApplicationPartsAssemblyInfo.cache
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.RazorAssemblyInfo.cache
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.RazorAssemblyInfo.cs
+C:\Visual Studio AOL\1\Aram Amman\bin\Debug\net8.0\appsettings.Development.json
+C:\Visual Studio AOL\1\Aram Amman\bin\Debug\net8.0\appsettings.json
+C:\Visual Studio AOL\1\Aram Amman\bin\Debug\net8.0\Aram Amman.staticwebassets.runtime.json
+C:\Visual Studio AOL\1\Aram Amman\bin\Debug\net8.0\Aram Amman.exe
+C:\Visual Studio AOL\1\Aram Amman\bin\Debug\net8.0\Aram Amman.deps.json
+C:\Visual Studio AOL\1\Aram Amman\bin\Debug\net8.0\Aram Amman.runtimeconfig.json
+C:\Visual Studio AOL\1\Aram Amman\bin\Debug\net8.0\Aram Amman.dll
+C:\Visual Studio AOL\1\Aram Amman\bin\Debug\net8.0\Aram Amman.pdb
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\staticwebassets.build.json
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\staticwebassets.development.json
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\staticwebassets\msbuild.Aram Amman.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\staticwebassets\msbuild.build.Aram Amman.props
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Aram Amman.props
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Aram Amman.props
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\scopedcss\bundle\Aram Amman.styles.css
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\scopedcss\projectbundle\Aram Amman.bundle.scp.css
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.dll
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\refint\Aram Amman.dll
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.pdb
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\Aram Amman.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Aram Amman\obj\Debug\net8.0\ref\Aram Amman.dll
